@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'simpleselector',
   packages = ['simpleselector'],
-  version = '1.1',
+  version = '1.2',
   license='MIT',
   description = 'simpleselector allows you to make selection menus in Python',
   author = 'B Game Studios',                  
   author_email = 'bgamestudios@mail.com',      
   url = 'https://bgamestudios.tk', 
-  download_url = 'https://github.com/SuperBoyne/simpleselect/archive/1.0.tar.gz',
+  download_url = 'https://github.com/SuperBoyne/simpleselect/archive/1.2.tar.gz',
   keywords = ['Select', 'Menu', 'Simple', 'Python', 'Selection'],
   install_requires=[          
           'keyboard',
